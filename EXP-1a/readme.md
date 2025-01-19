@@ -124,7 +124,7 @@
 ### LS COMMAND MANUAL
 ![ls command manual](manls.png)
 ### CMP FILE COMMAND OUTPUT
-![cmp file command output](cmpfile.png)
+![cmp file command output](cmp.png)
 ### CMP COMMAND MANUAL
 ![cmp command manual](mancmp.png)
 ### CHMOD 740 FILE COMMAND OUTPUT
